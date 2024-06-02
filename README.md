@@ -50,10 +50,10 @@ To run the application, make sure you have Java installed. You can compile and r
 
 ## Project Structure
 
-- `src/easykhanban/Khanban.java`: Main class containing the application logic.
-- `src/easykhanban/Task.java`: Class representing a task.
-- `src/management/AccountManager.java`: Placeholder for account management logic.
-- `src/management/UserInterface.java`: Placeholder for user interface management.
+- `src/easykhanban/Khanban.java`
+- `src/easykhanban/Task.java`
+- `src/management/AccountManager.java`
+- `src/management/UserInterface.java`
 
 ## Contributions
 
