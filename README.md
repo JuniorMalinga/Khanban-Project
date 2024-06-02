@@ -45,7 +45,7 @@ To run the application, make sure you have Java installed. You can compile and r
     ```
 4. Run the application:
     ```sh
-    java -cp bin main.main
+    java -cp bin main.Main
     ```
 
 ## Project Structure
